@@ -44,4 +44,8 @@ mkdir build
 cd build
 cmake ..
 make
+<<<<<<< HEAD
 ./RadarTrackingSimulator
+=======
+./RadarTrackingSimulator
+>>>>>>> d6e715c744b8b8ef1801c7acd1bd03d76f8fa09c
